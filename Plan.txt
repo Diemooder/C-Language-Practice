@@ -1,0 +1,86 @@
+## 🛠️ C Programming Practice Roadmap
+
+### 🧱 **Stage 1: Fundamentals & Syntax Familiarity**
+> Focus: Get comfortable with C basics, data types, operators, and I/O
+
+**Topics:**
+- Data types (`int`, `char`, `float`, `bool`)
+- `scanf` / `printf`
+- Conditionals (`if`, `switch`)
+- Loops (`for`, `while`)
+- Arrays
+- Functions
+
+**Sample Problems:**
+1. Read 2 numbers, print their sum.
+2. Print all even numbers between 1 and 100.
+3. Count the number of vowels in a string.
+4. Write a function to return the max of 3 integers.
+5. Reverse an array in-place.
+
+Let me know when you're ready, and I’ll give you one to start with.
+
+---
+
+### ⚙️ **Stage 2: Pointers & Memory**
+> Focus: Understand how pointers work, and how dynamic memory works with `malloc` and `free`
+
+**Topics:**
+- Pointer syntax
+- Pointer arithmetic
+- Arrays and pointers
+- `malloc`, `calloc`, `free`
+- Pass-by-reference using pointers
+
+**Sample Problems:**
+1. Swap two numbers using a pointer function.
+2. Write a function that dynamically allocates an array of size `n` and fills it.
+3. Implement a simple function that resizes a dynamically allocated array.
+4. Fill a 2D array using a single `malloc` call (flattened 2D).
+
+---
+
+### 🧠 **Stage 3: Recursion & Problem Solving**
+> Focus: Think recursively and solve common algorithm problems
+
+**Topics:**
+- Recursion basics
+- Factorial, Fibonacci, and backtracking
+- Permutations, combinations
+- Divide & conquer
+
+**Sample Problems:**
+1. Print numbers from `n` down to `1` recursively.
+2. Compute factorial recursively.
+3. Generate all binary strings of length `n`.
+4. Generate all permutations of a given array.
+
+---
+
+### 🏗️ **Stage 4: Data Structures in C**
+> Focus: Build real-world structures manually using pointers
+
+**Topics:**
+- Linked lists (singly/doubly)
+- Stacks, Queues
+- Trees and recursion
+- Structs and typedef
+- String handling with char arrays
+
+**Sample Problems:**
+1. Implement a singly linked list (insert, delete, print)
+2. Build a stack using a linked list
+3. Parse and evaluate a postfix expression using a stack
+4. Implement binary tree insert and traversal (in-order, pre-order)
+
+---
+
+### 💡 **Stage 5: Algorithms + Mini Projects**
+> Focus: Combine logic, memory, and algorithms to solve harder problems
+
+**Mini Projects Ideas:**
+- Sudoku Solver (backtracking)
+- Command-line calculator
+- Maze solver (DFS)
+- Tic Tac Toe with AI
+- Dynamic array library (reimplement part of `vector`)
